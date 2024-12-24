@@ -28,4 +28,5 @@ Clone the repository to your local machine:
   ```bash
   python simulation.py
   ```
+## Screenshots
 ![image](https://github.com/user-attachments/assets/a71a4a32-fddd-40c1-a7a1-f441eb158a28)
