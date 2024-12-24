@@ -1,7 +1,7 @@
-##🏎️ F1 Race Simulator
+## 🏎️ F1 Race Simulator
 An exciting F1 racing simulation built with Python and Pygame! Watch the thrill of overtakes, time gaps, and intense competition as drivers fight for glory on a custom-designed boot-shaped track.
 
-##🎮 Features
+## 🎮 Features
 Dynamic Race Simulation: Realistic racing with drivers having varying speeds and overtaking chances.
 Live Leaderboard: Displays time gaps between drivers in real time, ensuring you don't miss any action.
 Intense Overtakes: Random slowdowns and speed boosts to keep the race competitive and exciting.
