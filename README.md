@@ -1,14 +1,11 @@
 ## 🏎️ F1 Race Simulator
-An exciting F1 racing simulation built with Python and Pygame! Watch the thrill of overtakes, time gaps, and intense competition as drivers fight for glory on a custom-designed boot-shaped track.
+A fun Python-based F1 racing simulator with live leaderboards, overtakes, and a podium celebration!
 
-## 🎮 Features
-Dynamic Race Simulation: Realistic racing with drivers having varying speeds and overtaking chances.
-Live Leaderboard: Displays time gaps between drivers in real time, ensuring you don't miss any action.
-Intense Overtakes: Random slowdowns and speed boosts to keep the race competitive and exciting.
-Custom Boot-Shaped Track: A unique, visually appealing track for the ultimate racing experience.
-Podium Celebration: Celebrate the top 3 drivers with a final podium screen at the end of the race.
-Driver Initials: Each car is marked with its driver's initials for easy identification.
-🛠️ Setup and Installation
+## Features
+- Realistic track simulation
+- Randomized overtaking and speed variations
+- Live leaderboard with time gaps
+- Podium celebration for the top 3 drivers
 
 Follow these steps to get started with the F1 Race Simulator:
 
